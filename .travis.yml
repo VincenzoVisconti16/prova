@@ -6,7 +6,7 @@ addons:
  sonarcloud:
   organization: "vincenzoviscontiii"
   token:
-   secure: 0c71ad0906f373253f8b408ed5c84684cdb46f75
+   secure: f3f743f0bae1587f4b124a59b38c0729782da010
       
 script: 
 - ant build 
